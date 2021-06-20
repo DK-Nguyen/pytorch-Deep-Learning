@@ -34,7 +34,7 @@ git clone https://github.com/Atcold/pytorch-Deep-Learning
 
 ## Create isolated Miniconda environment
 
-Change directory (`cd`) into the course folder, then type:
+Change directory (`cd`) into the course folder, then type: 
 
 ```bash
 # cd pytorch-Deep-Learning
